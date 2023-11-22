@@ -1,3 +1,6 @@
-let a = 4;
-console.log("hello for stage.", a)
-console.log("After clone updated file")
+let a = 10;
+let b = 10;
+
+for(i=0;i<=a;i++){
+    console.log
+}
