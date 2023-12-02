@@ -7,5 +7,5 @@ let content = file.toString()
 let obj = JSON.parse(content)
 console.log(obj.length)
 
-let firDiv = document.getElementById("first")
-console.log(firDiv)
+// let firDiv = document.getElementById('first')
+// console.log(firDiv)
